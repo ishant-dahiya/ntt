@@ -104,7 +104,7 @@ You may control installation by specifying PREFIX and DESTDIR variables. For exa
 # Contact us
 
 If you have questions, you are welcome to contact us at
-[ntt@groups.io](mailto:ntt@groups.io).
+[ntt@groups.io](mailto:ntt@groups.io)
 
 You want to contribute? That's great! Kindly read our [contribution
 guide](https://github.com/nokia/ntt/blob/master/CONTRIBUTING.md) for more
